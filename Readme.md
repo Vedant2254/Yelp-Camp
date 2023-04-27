@@ -10,6 +10,6 @@ YelpCamp is a website where user can register their campgrounds, which are visib
 4. Owner of campground can edit or delete it, other users cannot.
 5. Owner of a review can delete it, other users cannot.
 
-### <a href="https://yelp-camp-2254.herokuapp.com/">Live Preview</a>
+[//]: # (### <a href="https://yelp-camp-2254.herokuapp.com/">Live Preview</a>)
 
-The preview website already contain campgrounds with random name and location. You can add campgrounds and review by registering on the website.
+[//]: # (The preview website already contain campgrounds with random name and location. You can add campgrounds and review by registering on the website.)
